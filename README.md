@@ -4,7 +4,7 @@ New Edition, Detection Script to help identify why your PC isn't Windows 11 Rele
 ![image](lang-menu-open-en_US.jpg)
 ![image](lang-menu-open-fa_IR.jpg)
 
-----
+----.
 
 ## New Edition, Based on Version 2.3.1
 
